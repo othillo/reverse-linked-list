@@ -1,5 +1,5 @@
 {
-  "name": "othillo/linked-list-php",
+  "name": "othillo/reverse-linked-list",
   "description": "exercise to reverse a linked list in PHP",
   "type": "project",
   "require": {},
